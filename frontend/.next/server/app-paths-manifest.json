@@ -1,9 +1,9 @@
 {
-  "/_global-error/page": "app/_global-error/page.js",
   "/_not-found/page": "app/_not-found/page.js",
+  "/_global-error/page": "app/_global-error/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/cards/page": "app/cards/page.js",
   "/content/page": "app/content/page.js",
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/page": "app/page.js",
   "/profile/page": "app/profile/page.js",
   "/receive/page": "app/receive/page.js",
