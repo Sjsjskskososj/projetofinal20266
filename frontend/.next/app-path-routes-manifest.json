@@ -1,0 +1,14 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/cards/page": "/cards",
+  "/content/page": "/content",
+  "/favicon.ico/route": "/favicon.ico",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/receive/page": "/receive",
+  "/schedule/page": "/schedule",
+  "/send/page": "/send",
+  "/statement/page": "/statement",
+  "/stats/page": "/stats"
+}
